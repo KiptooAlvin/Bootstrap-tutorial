@@ -1,13 +1,25 @@
-# WANFAM Frontend Web Interface
+# WANFAM Website (Bootstrap Practice Project)
 
-This project is a simple frontend webpage built using **HTML** and **Bootstrap**. It features a responsive navigation bar, a carousel slider, and a clean layout suitable for a livestock or farm management system named **WANFAM**.
+This project is a simple responsive website built using **HTML** and **Bootstrap**.  
+It is designed as part of learning Bootstrap layout components such as the **Navbar**, **Carousel**, **Grid System**, and **Cards**.
 
 ## Features
-- Responsive **Bootstrap Navbar**
-- **Dropdown Menu** for services
-- Integrated **Search Form**
-- **Carousel Slideshow** with three images
-- Organized file structure for CSS, JS, and Images
+- Responsive navigation bar with dropdown menu
+- Search form integrated in the navbar
+- Full-width image carousel slider
+- Three-column section for displaying content
+- Three Bootstrap cards aligned side-by-side
+- Clean and simple UI layout
+
+## Technologies Used
+| Technology | Purpose |
+|-----------|----------|
+| HTML      | Page structure |
+| CSS (Bootstrap) | Styling and responsive layout |
+| JavaScript (Bootstrap) | Interactive UI components |
+
+## Project Structure
+
   
   <img width="1351" height="675" alt="image" src="https://github.com/user-attachments/assets/adcaec02-bdb4-46f3-985d-a3488b5093ee" />
 
