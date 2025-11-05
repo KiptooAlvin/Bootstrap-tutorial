@@ -8,4 +8,7 @@ This project is a simple frontend webpage built using **HTML** and **Bootstrap**
 - Integrated **Search Form**
 - **Carousel Slideshow** with three images
 - Organized file structure for CSS, JS, and Images
+  
+  <img width="1351" height="675" alt="image" src="https://github.com/user-attachments/assets/adcaec02-bdb4-46f3-985d-a3488b5093ee" />
+
 
